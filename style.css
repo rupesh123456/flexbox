@@ -12,11 +12,11 @@ img{
 h1{
 	font-family:comic sans ms;
 	border-bottom:2px solid pink;
-	width:400px;
+	width:500px;
 	text-align:center;
 	font-size:3em;
 	border-right:2px solid pink;
-	box-shadow:4px 4px 5px #888888;
+	box-shadow:5px 4px 5px #888888;
 }
 body{
 	background-color:rgba(120, 101, 101,0.2);
